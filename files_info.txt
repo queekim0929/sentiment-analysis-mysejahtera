@@ -1,0 +1,17 @@
+Notebooks(.ipynb)
+1. 01_Business_Understanding.ipynb
+2. 02_DataUnderstanding_DataPreparation.ipynb
+3. 03_Modelling.ipynb
+4. 04_Evaluation_Interpretation.ipynb
+5. 05_Deployment.ipynb
+
+
+Input files to be loaded into the notebooks
+
+1. mysj_android_reviews.csv
+2. list_to_drop.xlxs
+3. mnb_model.joblib
+
+Output files
+1. dataset_experiment_1.csv
+2. dataset_experiment_2.csv
